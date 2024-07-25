@@ -26,3 +26,16 @@ The Resume Analysis Project is designed to streamline the hiring process by auto
 
 To set up the project, follow these steps:
 
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/Resume-Analysis.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd Resume-Analysis
+Install the required packages:
+
+bash
+Copy code
+pip install -r requirements.txt
