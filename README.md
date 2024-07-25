@@ -24,7 +24,6 @@ The Resume Analysis Project is designed to streamline the hiring process by auto
 
 ## Installation
 
-```markdown
 To set up the project, follow these steps:
 
 1. **Clone the repository**:
