@@ -31,11 +31,11 @@ To set up the project, follow these steps:
    git clone https://github.com/yourusername/Resume-Analysis.git
 
 2. **Navigate to the project directory**:
-  ```bash
-  cd Resume-Analysis
+     ```bash\
+     cd Resume-Analysis
 
 3. **Install the required packages**:
-  ```bash
-  pip install -r requirements.txt
+     ```bash
+     pip install -r requirements.txt
 
 
