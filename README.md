@@ -7,9 +7,6 @@ This project analyzes PDF resumes for specific keywords and generates an Excel r
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
