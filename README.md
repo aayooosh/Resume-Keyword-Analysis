@@ -39,3 +39,16 @@ To set up the project, follow these steps:
      pip install -r requirements.txt
 
 
+## Usage
+
+1. **Place PDF resumes** in the `data/resumes` directory.
+
+2. **Run the main script**:
+   ```bash
+   python src/main.py
+   
+3. **Output**: The Excel report will be generated in the output folder as 'screened_resumes_output.xlsx'
+
+## Contact
+
+For any questions or suggestions, please contact Ayush Yadav at aayooosh2211@gmail.com
