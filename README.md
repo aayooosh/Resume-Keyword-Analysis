@@ -44,7 +44,7 @@ To set up the project, follow these steps:
    ```bash
    python src/main.py
    
-3. **Output**: The Excel report will be generated in the output folder as 'screened_resumes_output.xlsx'
+3. **Output**: The Excel report will be generated in the output folder as 'Analyzed_Resume_output.xlsx'
 
 ## Contact
 
